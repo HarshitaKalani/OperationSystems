@@ -1,0 +1,27 @@
+FIFO page replacement algorithm: 
+Process 0 : for page reference 1, TLB miss -> Page fault -> Page table valid wrefString[i]h frame number 0
+Process 1 : for page reference 2, TLB miss -> Page fault -> Page table valid wrefString[i]h frame number 1
+Process 2 : for page reference 1, TLB hit -> Page table valid wrefString[i]h frame number 1
+Process 3 : for page reference 2, TLB hit -> Page table valid wrefString[i]h frame number 1
+Process 4 : for page reference 1, TLB hit -> Page table valid wrefString[i]h frame number 1
+Process 5 : for page reference 4, TLB miss -> Page fault -> Page table valid wrefString[i]h frame number 1
+FIFO page replacement algorithm: 3
+
+LRU page replacement algorithm: 
+Process 0 : for page reference 1, TLB miss -> Page fault -> Page table valid wrefString[i]h frame number 0
+Process 1 : for page reference 2, TLB miss -> Page fault -> Page table valid wrefString[i]h frame number 1
+Process 2 : for page reference 1, TLB hit wrefString[i]h frame number 0
+Process 3 : for page reference 2, TLB hit wrefString[i]h frame number 1
+Process 4 : for page reference 1, TLB hit wrefString[i]h frame number 2
+Process 5 : for page reference 4, TLB miss -> Page fault -> Page table valid wrefString[i]h frame number 0
+Page faults for lru page replacement algorithm: 3
+
+Optimal page replacement algorithm: 
+Process 0 : for page reference 1, TLB miss -> Page fault -> Page table valid wrefString[i]h frame number 0
+Process 1 : for page reference 2, TLB miss -> Page fault -> Page table valid wrefString[i]h frame number 1
+Process 2 : for page reference 1, TLB hit -> Page table valid wrefString[i]h frame number 1
+Process 3 : for page reference 2, TLB hit -> Page table valid wrefString[i]h frame number 1
+Process 4 : for page reference 1, TLB hit -> Page table valid wrefString[i]h frame number 1
+Process 5 : for page reference 4, TLB hit -> Page table valid wrefString[i]h frame number 1
+Page faults for optimal page replacement algorithm : 2
+

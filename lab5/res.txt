@@ -1,0 +1,165 @@
+Process 
+Process 1 : for page reference 2, TLB miss Page table invalid with frame number 2
+Process 1 : for page reference 0, TLB miss Page table invalid with frame number 0
+Process 1 : for page reference 3, TLB miss Page table invalid with frame number 3
+Process 1 : for page reference 0, TLB hit with frame number 0
+Process 1 : for page reference 1, TLB miss Page table invalid with frame number 1
+Process 1 : for page reference 2, TLB hit with frame number 2
+Process 1 : for page reference 4, TLB miss Page table invalid with frame number 4
+Process 1 : for page reference 1, TLB miss Page table invalid with frame number 1
+Process 1 : for page reference 2, TLB hit with frame number 2
+Process 1 : for page reference 2, TLB hit with frame number 2
+Process 1 : for page reference 0, TLB hit with frame number 0
+Process 1 : for page reference 4, TLB miss Page table invalid with frame number 4
+Process 1 : for page reference 3, TLB miss Page table invalid with frame number 3
+Process 1 : for page reference 1, TLB miss Page table invalid with frame number 1
+Process 1 : for page reference 0, TLB hit with frame number 0
+Process 1 : for page reference 1, TLB hit with frame number 1
+Process 1 : for page reference 2, TLB hit with frame number 2
+Process 1 : for page reference 1, TLB hit with frame number 1
+Process 1 : for page reference 1, TLB hit with frame number 1
+Process 1 : for page reference 3, TLB miss Page table invalid with frame number 3
+Process 1 : for page reference 2, TLB hit with frame number 2
+Process 1 : for page reference 4, TLB miss Page table invalid with frame number 4
+Process 1 : for page reference 2, TLB hit with frame number 2
+Process 1 : for page reference 0, TLB hit with frame number 0
+Process 1 : for page reference 2, TLB hit with frame number 2
+Process 1 : for page reference 3, TLB miss Page table invalid with frame number 3
+Process 1 : for page reference 2, TLB hit with frame number 2
+Process 1 : for page reference 0, TLB hit with frame number 0
+Process 1 : for page reference 4, TLB miss Page table invalid with frame number 4
+Process 1 : for page reference 2, TLB hit with frame number 2
+Process 1 : for page reference 2, TLB hit with frame number 2
+Process 1 : for page reference 3, TLB miss Page table invalid with frame number 3
+Process 1 : for page reference 4, TLB miss Page table invalid with frame number 4
+Process 1 : for page reference 2, TLB hit with frame number 2
+Process 1 : for page reference 3, TLB miss Page table invalid with frame number 3
+Process 1 : for page reference 1, TLB miss Page table invalid with frame number 1
+Process 1 : for page reference 1, TLB hit with frame number 1
+Process 1 : for page reference 2, TLB hit with frame number 2
+Process 1 : for page reference 4, TLB miss Page table invalid with frame number 4
+Process 1 : for page reference 3, TLB miss Page table invalid with frame number 3
+Process 1 : for page reference 1, TLB miss Page table invalid with frame number 1
+Process 1 : for page reference 4, TLB miss Page table invalid with frame number 4
+Process 1 : for page reference 4, TLB hit with frame number 4
+Process 1 : for page reference 2, TLB hit with frame number 2
+Number of page faults for process 1 : 21
+Process 2
+Process 2 : for page reference 0, TLB miss Page table invalid with frame number 0
+Process 2 : for page reference 0, TLB hit with frame number 0
+Process 2 : for page reference 3, TLB miss Page table invalid with frame number 3
+Process 2 : for page reference 1, TLB miss Page table invalid with frame number 1
+Process 2 : for page reference 1, TLB hit with frame number 1
+Process 2 : for page reference 0, TLB hit with frame number 0
+Process 2 : for page reference 1, TLB hit with frame number 1
+Process 2 : for page reference 3, TLB hit with frame number 3
+Process 2 : for page reference 2, TLB miss Page table invalid with frame number 2
+Process 2 : for page reference 0, TLB hit with frame number 0
+Process 2 : for page reference 1, TLB miss Page table invalid with frame number 1
+Process 2 : for page reference 1, TLB hit with frame number 1
+Process 2 : for page reference 0, TLB hit with frame number 0
+Process 2 : for page reference 0, TLB hit with frame number 0
+Process 2 : for page reference 4, TLB miss Page table invalid with frame number 4
+Process 2 : for page reference 2, TLB miss Page table invalid with frame number 2
+Process 2 : for page reference 1, TLB miss Page table invalid with frame number 1
+Process 2 : for page reference 0, TLB hit with frame number 0
+Process 2 : for page reference 1, TLB hit with frame number 1
+Process 2 : for page reference 4, TLB miss Page table invalid with frame number 4
+Process 2 : for page reference 3, TLB hit with frame number 3
+Process 2 : for page reference 2, TLB miss Page table invalid with frame number 2
+Process 2 : for page reference 4, TLB miss Page table invalid with frame number 4
+Process 2 : for page reference 0, TLB hit with frame number 0
+Process 2 : for page reference 2, TLB miss Page table invalid with frame number 2
+Process 2 : for page reference 0, TLB hit with frame number 0
+Process 2 : for page reference 4, TLB miss Page table invalid with frame number 4
+Process 2 : for page reference 2, TLB miss Page table invalid with frame number 2
+Process 2 : for page reference 4, TLB miss Page table invalid with frame number 4
+Process 2 : for page reference 4, TLB hit with frame number 4
+Process 2 : for page reference 3, TLB hit with frame number 3
+Process 2 : for page reference 0, TLB hit with frame number 0
+Process 2 : for page reference 2, TLB miss Page table invalid with frame number 2
+Process 2 : for page reference 3, TLB hit with frame number 3
+Process 2 : for page reference 1, TLB miss Page table invalid with frame number 1
+Process 2 : for page reference 3, TLB hit with frame number 3
+Process 2 : for page reference 3, TLB hit with frame number 3
+Process 2 : for page reference 4, TLB miss Page table invalid with frame number 4
+Process 2 : for page reference 3, TLB hit with frame number 3
+Process 2 : for page reference 1, TLB miss Page table invalid with frame number 1
+Process 2 : for page reference 4, TLB miss Page table invalid with frame number 4
+Process 2 : for page reference 4, TLB hit with frame number 4
+Process 2 : for page reference 2, TLB miss Page table invalid with frame number 2
+Process 2 : for page reference 0, TLB hit with frame number 0
+Process 2 : for page reference 1, TLB miss Page table invalid with frame number 1
+Process 2 : for page reference 3, TLB hit with frame number 3
+Number of page faults for process 2 : 22
+Process 3
+Process 3 : for page reference 1, TLB miss Page table invalid with frame number 1
+Process 3 : for page reference 1, TLB hit with frame number 1
+Process 3 : for page reference 4, TLB miss Page table invalid with frame number 4
+Process 3 : for page reference 4, TLB hit with frame number 4
+Process 3 : for page reference 0, TLB miss Page table invalid with frame number 0
+Process 3 : for page reference 0, TLB hit with frame number 0
+Process 3 : for page reference 4, TLB hit with frame number 4
+Process 3 : for page reference 3, TLB miss Page table invalid with frame number 3
+Process 3 : for page reference 2, TLB miss Page table invalid with frame number 2
+Process 3 : for page reference 1, TLB hit with frame number 1
+Process 3 : for page reference 2, TLB hit with frame number 2
+Process 3 : for page reference 2, TLB hit with frame number 2
+Process 3 : for page reference 2, TLB hit with frame number 2
+Process 3 : for page reference 2, TLB hit with frame number 2
+Process 3 : for page reference 2, TLB hit with frame number 2
+Process 3 : for page reference 1, TLB hit with frame number 1
+Process 3 : for page reference 1, TLB hit with frame number 1
+Process 3 : for page reference 0, TLB miss Page table invalid with frame number 0
+Process 3 : for page reference 1, TLB hit with frame number 1
+Process 3 : for page reference 1, TLB hit with frame number 1
+Process 3 : for page reference 0, TLB hit with frame number 0
+Process 3 : for page reference 4, TLB hit with frame number 4
+Process 3 : for page reference 4, TLB hit with frame number 4
+Process 3 : for page reference 4, TLB hit with frame number 4
+Process 3 : for page reference 0, TLB hit with frame number 0
+Process 3 : for page reference 4, TLB hit with frame number 4
+Process 3 : for page reference 1, TLB hit with frame number 1
+Process 3 : for page reference 2, TLB miss Page table invalid with frame number 2
+Process 3 : for page reference 2, TLB hit with frame number 2
+Process 3 : for page reference 1, TLB hit with frame number 1
+Process 3 : for page reference 1, TLB hit with frame number 1
+Process 3 : for page reference 0, TLB miss Page table invalid with frame number 0
+Process 3 : for page reference 4, TLB hit with frame number 4
+Process 3 : for page reference 2, TLB miss Page table invalid with frame number 2
+Process 3 : for page reference 2, TLB hit with frame number 2
+Process 3 : for page reference 1, TLB hit with frame number 1
+Process 3 : for page reference 2, TLB hit with frame number 2
+Process 3 : for page reference 3, TLB miss Page table invalid with frame number 3
+Process 3 : for page reference 1, TLB hit with frame number 1
+Process 3 : for page reference 0, TLB miss Page table invalid with frame number 0
+Process 3 : for page reference 1, TLB hit with frame number 1
+Process 3 : for page reference 3, TLB miss Page table invalid with frame number 3
+Process 3 : for page reference 4, TLB hit with frame number 4
+Process 3 : for page reference 4, TLB hit with frame number 4
+Number of page faults for process 3 : 12
+Process 4
+Process 4 : for page reference 2, TLB miss Page table invalid with frame number 2
+Process 4 : for page reference 4, TLB miss Page table invalid with frame number 4
+Process 4 : for page reference 3, TLB miss Page table invalid with frame number 3
+Process 4 : for page reference 4, TLB hit with frame number 4
+Process 4 : for page reference 0, TLB miss Page table invalid with frame number 0
+Process 4 : for page reference 3, TLB miss Page table invalid with frame number 3
+Process 4 : for page reference 3, TLB hit with frame number 3
+Process 4 : for page reference 0, TLB miss Page table invalid with frame number 0
+Process 4 : for page reference 0, TLB hit with frame number 0
+Process 4 : for page reference 4, TLB hit with frame number 4
+Process 4 : for page reference 1, TLB miss Page table invalid with frame number 1
+Process 4 : for page reference 3, TLB miss Page table invalid with frame number 3
+Process 4 : for page reference 3, TLB hit with frame number 3
+Process 4 : for page reference 0, TLB miss Page table invalid with frame number 0
+Process 4 : for page reference 1, TLB miss Page table invalid with frame number 1
+Process 4 : for page reference 1, TLB hit with frame number 1
+Process 4 : for page reference 1, TLB hit with frame number 1
+Process 4 : for page reference 0, TLB miss Page table invalid with frame number 0
+Process 4 : for page reference 4, TLB hit with frame number 4
+Process 4 : for page reference 3, TLB miss Page table invalid with frame number 3
+Process 4 : for page reference 4, TLB hit with frame number 4
+Process 4 : for page reference 3, TLB hit with frame number 3
+Process 4 : for page reference 1, TLB miss Page table invalid with frame number 1
+Number of page faults for proces 4 : 13
